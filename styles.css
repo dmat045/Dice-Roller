@@ -1,0 +1,13 @@
+#roll-btn {
+    background-color: #0077c2;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-size: 2em;
+    margin-top: 20px;
+  }
